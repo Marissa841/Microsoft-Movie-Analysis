@@ -45,20 +45,18 @@ Question 2. It looks like this shows the higher grossing films were in the 2 - 2
 Question 3. Results show drama, action, and comedy are the most frequently made movies and that action films result in a lot more online engagement compared to the other genres. Results also seem to show that sport, documentary, and music come out as the top three genres with the highest ratings. However, this would be inaccurate to conclude due to the low number of votes for those particular genres. In summary, it looks like action, drama, and comedy genres are the most successful, with audiences with action coming first.
 
 
-Here is an example of how to embed images from your sub-folder:
-
 ### Visual 1
-![bar](images/q1-2.png)
+![Top Grossing Studios bar chart](images/q1-2.png)
 
 ### Visual 2
-![scatterplot](q2-domestic-gross-vs-ml:scatter.png)
+![Domestic gross vs Movie Length](q2.png)
 
 ### Visual 3
-![barh](genres-by-customer-engagement:barh.png)
+![Popular Movie Genres by Customer Engagement](q3.customer.png)
 
 ## Conclusions
 
-With all this in mind, I would recommend Microsoft to make a movie that is between 2 to 2.5 hours long and also to consider a film in the action, drama, or comedy genre. Additionally, I would recommend making about 8.8 films a year in order to compete with the top studios. This analysis has gaps due to the small data set and only including domestic gross as a measure of earnings. To improve this project, I would like to work with foreign gross and cost of production data to understand the bigger picture of potential earnings per film. 
+With this in mind, I would recommend Microsoft to make a movie that is between 2 to 2.5 hours long and also to consider a film in the action, drama, or comedy genre. Additionally, I would recommend making about 8.8 films a year in order to compete with the top studios. This analysis has gaps due to the small data set and only including domestic gross as a measure of earnings. To improve this project, I would like to work with foreign gross and cost of production data to understand the bigger picture of potential earnings per film. 
 
 
 ## For More Information
