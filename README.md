@@ -49,10 +49,10 @@ Question 3. Results show drama, action, and comedy are the most frequently made 
 ![Top Grossing Studios bar chart](images/q1-2.png)
 
 ### Visual 2
-![Domestic gross vs Movie Length](q2.png)
+![Domestic Gross vs Movie Length](images/q2.png)
 
 ### Visual 3
-![Popular Movie Genres by Customer Engagement](q3.customer.png)
+![Popular Movie Genres by Customer Engagement](images/q3-customer.png)
 
 ## Conclusions
 
