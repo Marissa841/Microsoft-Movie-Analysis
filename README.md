@@ -48,7 +48,7 @@ Question 3. Results show drama, action, and comedy are the most frequently made 
 Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
-![bar](q1-top-grossing-studios:bar.png)
+![bar](images/q1-2.png)
 
 ### Visual 2
 ![scatterplot](q2-domestic-gross-vs-ml:scatter.png)
