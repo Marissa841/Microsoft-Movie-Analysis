@@ -68,9 +68,9 @@ For any additional questions, please contact **Marissa Bush, marissabush.02@gmai
 ## Repository Structure
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-microsoft-movie-analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                           
+├── dsc-phase1-microsoft-movie-analysis.ipynb 
+├── DS_Project_Presentation.pdf         
+├── data                                
+└── images                              
 ```
