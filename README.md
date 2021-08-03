@@ -22,7 +22,7 @@ The first question is appropriate from a  business perspective because it is ess
 
 ## Data
 
-Three data sets were used for this business problem - box office mojo movie gross, IMDB title basics, and IMDB title ratings data. This data was dredged up from the following three csv files: 
+Three data sets were used for this business problem - box office mojo movie gross, IMDB title basics, and IMDB title ratings data. This data was taken from the following three csv files: 
 
 + data/zippedData/bom.movie_gross.csv.gz
 + data/zippedData/imdb.title.basics.csv.gz
@@ -63,7 +63,7 @@ With all this in mind, I would recommend Microsoft to make a movie that is betwe
 
 ## For More Information
 
-Please review the full analysis in [my Jupyter Notebook](.dsc-phase1-microsoft-movie-analysis.ipynb) or the [presentation](./DS_Project_Presentation.pdf).
+Please review the full analysis in [my Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or the [presentation](./DS_Project_Presentation.pdf).
 
 For any additional questions, please contact **Marissa Bush, marissabush.02@gmail.com**
 
