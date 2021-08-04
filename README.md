@@ -12,7 +12,7 @@ Microsoft seems all the big companies are creating original video content, and t
 
 In order to address this problem I asked the following questions:
 
-1.  How many films have the top studios made from 2010-2019, and which studio brings in the most earnings? In other words, what are the studios that will be Microsoft's biggest competition?
+1. How many films have the top studios made from 2010-2019, and which studio has been the most lucrative? In other words, what are the studios that will be Microsoft's biggest competition?
 
 2. Is there a positive correlation between film length and domestic gross?
 
@@ -61,7 +61,7 @@ With this in mind, I would recommend Microsoft to make a movie that is between 2
 
 ## For More Information
 
-Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](./DS_Project_Presentation.pdf).
+Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](Movie Analysis Presentation.pdf).
 
 For any additional questions, please contact **Marissa Bush, marissabush.02@gmail.com**
 
