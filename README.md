@@ -61,8 +61,7 @@ With this in mind, I would recommend Microsoft to make a movie that is between 2
 
 ## For More Information
 
-Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](https://docs.google.com/
-https://doc-14-5k-slides.googleusercontent.com/export/t1g6mgl7s4gvc2mkfnj9jm49ns/77si7cl8c35p1bcd4aagn54f8g/1628051300000/109025445534364849161/109025445534364849161/1ExUuDMaW73Ak90q21DuDVRpIl5msDmN43admxrXTvBc?id=1ExUuDMaW73Ak90q21DuDVRpIl5msDmN43admxrXTvBc&pageid=g8a55b5f358_0_86&exportFormat=pdf&dat=AO9BBxy_AMSolux3KlK7TxC2SeLtd54G4qp6yVS7wPOcDWbOfIAB5beU2xAO04n-MZGYfSBOggI5L2cpOMb0kdGW-w5bSfQrLOhpqkTNwHRei7o1FlCgtj90HX6ODa8X1xavt0O_5_9qmiYfPpIr4BHEm3mTXXsxJ3WuCENhmI1vj0MxdbjTlcXxUbvi0iQFtdcjJyr3pPg7_U9oTP1cHswFvW-6wlEjn4OQuB2YWZEzwhfxpZgAAp-gdOPKmXcjH6m0xWTEZgcvN8Krf-PrlsOrXAnJCeHvg9doeev4kDXyG9OT2UsYF4EhDT8gO8gULQmd5xbRqiklvn8L6KkyA9KEFyUgYuL674gnm7wboCgZoOF62f1k638P6qx7WbNZH_t_RLAtuuh1vR-tmKIaOHS71bH3hOF14dW8t9j9mT1IQ-_-HBTr81cXQgrDqMf_W1EnoslMNhNzkYtl5jmviVTQGFnOWOBl00r6LMOUuOl-_lmwNAlzHH5WJpmXZVU219ESlzRe7sLo9XN0b0Zfi_5Hh5le0geic02WCJ-x_gtxeByT4rPKUq1uHZwApqx9CS0k-3YFvVwTrqEmHkGc7STh7OCuqJop5m4Ozl4XBi0rRWvXAkhWzsS4xPSfCN92p9Q4rbv83CaGTM0UAt04DLJ6P-QJHRPO1ddqkuZw7wAQNqTM-TwxkHyoLMa7qkF0s0nZZoE1fLcb7fqXg5LNp266HSPqg7w).
+Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](Movie Analysis Presentation.pdf).
 
 For any additional questions, please contact **Marissa Bush, marissabush.02@gmail.com**
 
