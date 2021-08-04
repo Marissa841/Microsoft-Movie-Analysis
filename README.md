@@ -28,7 +28,7 @@ Three data sets were used for this business problem - box office mojo movie gros
 + data/zippedData/imdb.title.basics.csv.gz
 + data/zippedData/imdb.title.ratings.csv.gz
 
-The data represents movie data from 2010-2019, including domestic gross, titles, genres, ratings, and movie length. The target variable ... The properties of the variables I intend to use are domestic gross: sum, genres: number of occurrences, genres versus domestic gross. 
+The data represents movie data from 2010-2019, including domestic gross, titles, genres, ratings, and movie length. The target variable... The properties of the variables I intend to use are sum, number of occurrences, and descriptive statistics.
 
 ## Methods
 
@@ -61,7 +61,7 @@ With this in mind, I would recommend Microsoft to make a movie that is between 2
 
 ## For More Information
 
-Please review the full analysis in [my Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or the [presentation](./DS_Project_Presentation.pdf).
+Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](./DS_Project_Presentation.pdf).
 
 For any additional questions, please contact **Marissa Bush, marissabush.02@gmail.com**
 
