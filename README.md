@@ -38,7 +38,7 @@ The descriptive analysis of this data consisted of first collecting the data by 
 
 The results for the previous questions are as follows:
 
-Question 1. The most productive studios from 2010-2019 have made over 80 films in that time with Buena Vista studios bringing in the highest earnings.
+Question 1. The most productive studios from 2010-2019 have made over 100 films in that time with Buena Vista studios bringing in the highest earnings.
 
 Question 2. It looks like this shows the higher grossing films were in the 2 - 2.5 hour range. Perhaps making a film that length would be a good move.
 
@@ -61,7 +61,7 @@ With this in mind, I would recommend Microsoft to make a movie that is between 2
 
 ## For More Information
 
-Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](Movie_Analysis_Presentation.pdf).
+Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](movie_analysis_presentation.pdf).
 
 For any additional questions, please contact **Marissa Bush, marissabush.02@gmail.com**
 
@@ -70,7 +70,7 @@ For any additional questions, please contact **Marissa Bush, marissabush.02@gmai
 ```
 ├── README.md                           
 ├── dsc-phase1-microsoft-movie-analysis.ipynb 
-├── Movie_Analysis_Presentation.pdf       
+├── movie_analysis_presentation.pdf       
 ├── data                                
 └── images                              
 ```
