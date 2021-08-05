@@ -56,12 +56,12 @@ Question 3. Results show drama, action, and comedy are the most frequently made 
 
 ## Conclusions
 
-With this in mind, I would recommend Microsoft to make a movie that is between 2 to 2.5 hours long and also to consider a film in the action, drama, or comedy genre. Additionally, I would recommend making about 8.8 films a year in order to compete with the top studios. This analysis has gaps due to the small data set and only including domestic gross as a measure of earnings. To improve this project, I would like to work with foreign gross and cost of production data to understand the bigger picture of potential earnings per film. 
+With this in mind, I would recommend Microsoft to make a movie that is between 2 to 2.5 hours long and also to consider a film in the action, drama, or comedy genre. Additionally, I would recommend making about 11.4 films a year in order to compete with the top studios. This analysis has gaps due to the small data set and only including domestic gross as a measure of earnings. To improve this project, I would like to work with foreign gross and cost of production data to understand the bigger picture of potential earnings per film. 
 
 
 ## For More Information
 
-Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](Movie Analysis Presentation.pdf).
+Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](Movie_Analysis_Presentation.pdf).
 
 For any additional questions, please contact **Marissa Bush, marissabush.02@gmail.com**
 
@@ -70,7 +70,7 @@ For any additional questions, please contact **Marissa Bush, marissabush.02@gmai
 ```
 ├── README.md                           
 ├── dsc-phase1-microsoft-movie-analysis.ipynb 
-├── DS_Project_Presentation.pdf         
+├── Movie_Analysis_Presentation.pdf       
 ├── data                                
 └── images                              
 ```
