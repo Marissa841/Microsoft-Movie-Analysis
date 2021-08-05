@@ -61,7 +61,7 @@ With this in mind, I would recommend Microsoft to make a movie that is between 2
 
 ## For More Information
 
-Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](movie_analysis_presentation.pdf).
+Please review the full analysis in this [Jupyter Notebook](https://github.com/Marissa841/Movie-Analysis/blob/main/dsc-phase1-microsoft-movie-analysis.ipynb) or [presentation](presentation_1.pdf).
 
 For any additional questions, please contact **Marissa Bush, marissabush.02@gmail.com**
 
@@ -70,7 +70,7 @@ For any additional questions, please contact **Marissa Bush, marissabush.02@gmai
 ```
 ├── README.md                           
 ├── dsc-phase1-microsoft-movie-analysis.ipynb 
-├── movie_analysis_presentation.pdf       
+├── presentation_1.pdf       
 ├── data                                
 └── images                              
 ```
